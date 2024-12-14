@@ -1,1 +1,1 @@
-Версий, которые были раньше 1.5.6 были потеряны.
+Versions that were earlier than 1.5.6 have been lost.
